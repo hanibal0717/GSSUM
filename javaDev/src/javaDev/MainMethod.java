@@ -5,5 +5,6 @@ public class MainMethod {
 		System.out.println("hanibal dev open");
 		System.out.println("first command");
 		System.out.println("2017년11월14");
+		System.out.println("2017 add");
 	}
 }
